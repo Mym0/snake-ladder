@@ -1,0 +1,1830 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board should display 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <canvas
+        id="canvas"
+        style="z-index: -1; opacity: 0;"
+      />
+      <div
+        class="memo-container"
+      >
+        <h1
+          id="score"
+        >
+          Your score is 
+          0
+        </h1>
+      </div>
+      <div
+        class="boardGame"
+      >
+        <div
+          class="dice"
+        >
+          <p>
+            loading user info...
+          </p>
+        </div>
+        <div>
+          <div
+            class="table"
+          >
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                1
+                <div
+                  class="imageContainerP1"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="P1"
+                    src="P1.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                2
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                3
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                4
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                5
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                6
+                <div
+                  class="imageContainerLadder1"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="ladder1"
+                    src="ladder.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                7
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                8
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                9
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                10
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                11
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                12
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                13
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                14
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                15
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                16
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                17
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                18
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                19
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                20
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                21
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                22
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                23
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                24
+                <div
+                  class="imageContainerLadder3"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="ladder3"
+                    src="ladder.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                25
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                26
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                27
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                28
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                29
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                30
+                <div
+                  class="imageContainerSnake3"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake3"
+                    src="snake3.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                31
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                32
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                33
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                34
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                35
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                36
+                <div
+                  class="imageContainerSnake2"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake2"
+                    src="snake2.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                37
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                38
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                39
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                40
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                41
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                42
+                <div
+                  class="imageContainerSnake4"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake4"
+                    src="snake4.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                43
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                44
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                45
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                46
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                47
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                48
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                49
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                50
+                <div
+                  class="imageContainerSnake3"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake3"
+                    src="snake3.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                51
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                52
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                53
+                <div
+                  class="imageContainerLadder1"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="ladder1"
+                    src="ladder.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                54
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                55
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                56
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                57
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                58
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                59
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                60
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                61
+                <div
+                  class="imageContainerLadder1"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="ladder1"
+                    src="ladder.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                62
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                63
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                64
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                65
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                66
+                <div
+                  class="imageContainerLadder2"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="ladder2"
+                    src="ladder.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                67
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                68
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                69
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                70
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                71
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                72
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                73
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                74
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                75
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                76
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                77
+                <div
+                  class="imageContainerSnake2"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake2"
+                    src="snake2.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                78
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                79
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                80
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                81
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                82
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                83
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                84
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                85
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                86
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                87
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                88
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                89
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                90
+              </div>
+            </div>
+            <div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                91
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                92
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                93
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                94
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                95
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                96
+                <div
+                  class="imageContainerSnake5"
+                >
+                  <img
+                    alt="snakeladder"
+                    class="snake5"
+                    src="snake5.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                97
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                98
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                99
+              </div>
+              <div
+                class="cell"
+                data-testid="cell"
+                style="background-color: grey;"
+              >
+                100
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="dice"
+          style="cursor: default;"
+        >
+          <button
+            class="btn btn-secondary"
+            type="button"
+            variant="primary"
+          >
+            Roll the dice
+          </button>
+          <span
+            style="padding: 2rem;"
+          >
+            Start throwing the Dice
+          </span>
+          <button
+            class="btn btn-secondary"
+            style="z-index: 1000;"
+            type="button"
+          >
+            Reset Game
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <canvas
+      id="canvas"
+      style="z-index: -1; opacity: 0;"
+    />
+    <div
+      class="memo-container"
+    >
+      <h1
+        id="score"
+      >
+        Your score is 
+        0
+      </h1>
+    </div>
+    <div
+      class="boardGame"
+    >
+      <div
+        class="dice"
+      >
+        <p>
+          loading user info...
+        </p>
+      </div>
+      <div>
+        <div
+          class="table"
+        >
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              1
+              <div
+                class="imageContainerP1"
+              >
+                <img
+                  alt="snakeladder"
+                  class="P1"
+                  src="P1.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              2
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              3
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              4
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              5
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              6
+              <div
+                class="imageContainerLadder1"
+              >
+                <img
+                  alt="snakeladder"
+                  class="ladder1"
+                  src="ladder.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              7
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              8
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              9
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              10
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              11
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              12
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              13
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              14
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              15
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              16
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              17
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              18
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              19
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              20
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              21
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              22
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              23
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              24
+              <div
+                class="imageContainerLadder3"
+              >
+                <img
+                  alt="snakeladder"
+                  class="ladder3"
+                  src="ladder.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              25
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              26
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              27
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              28
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              29
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              30
+              <div
+                class="imageContainerSnake3"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake3"
+                  src="snake3.png"
+                />
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              31
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              32
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              33
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              34
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              35
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              36
+              <div
+                class="imageContainerSnake2"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake2"
+                  src="snake2.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              37
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              38
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              39
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              40
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              41
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              42
+              <div
+                class="imageContainerSnake4"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake4"
+                  src="snake4.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              43
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              44
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              45
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              46
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              47
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              48
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              49
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              50
+              <div
+                class="imageContainerSnake3"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake3"
+                  src="snake3.png"
+                />
+              </div>
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              51
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              52
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              53
+              <div
+                class="imageContainerLadder1"
+              >
+                <img
+                  alt="snakeladder"
+                  class="ladder1"
+                  src="ladder.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              54
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              55
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              56
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              57
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              58
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              59
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              60
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              61
+              <div
+                class="imageContainerLadder1"
+              >
+                <img
+                  alt="snakeladder"
+                  class="ladder1"
+                  src="ladder.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              62
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              63
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              64
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              65
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              66
+              <div
+                class="imageContainerLadder2"
+              >
+                <img
+                  alt="snakeladder"
+                  class="ladder2"
+                  src="ladder.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              67
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              68
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              69
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              70
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              71
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              72
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              73
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              74
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              75
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              76
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              77
+              <div
+                class="imageContainerSnake2"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake2"
+                  src="snake2.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              78
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              79
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              80
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              81
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              82
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              83
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              84
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              85
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              86
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              87
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              88
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              89
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              90
+            </div>
+          </div>
+          <div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              91
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              92
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              93
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              94
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              95
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              96
+              <div
+                class="imageContainerSnake5"
+              >
+                <img
+                  alt="snakeladder"
+                  class="snake5"
+                  src="snake5.png"
+                />
+              </div>
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              97
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              98
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              99
+            </div>
+            <div
+              class="cell"
+              data-testid="cell"
+              style="background-color: grey;"
+            >
+              100
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="dice"
+        style="cursor: default;"
+      >
+        <button
+          class="btn btn-secondary"
+          type="button"
+          variant="primary"
+        >
+          Roll the dice
+        </button>
+        <span
+          style="padding: 2rem;"
+        >
+          Start throwing the Dice
+        </span>
+        <button
+          class="btn btn-secondary"
+          style="z-index: 1000;"
+          type="button"
+        >
+          Reset Game
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

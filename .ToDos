@@ -1,0 +1,15 @@
+<!-- Make signing in mandatory for the player to be able to begin the game. -->
+<!-- add more snakes and Ladders. -->
+<!-- Debug the repeated correct answer when Questions show up. -->
+<!-- add some user information to the UI -->
+<!-- get rid of the mocks File and use the Response to get the needed Questions. -->
+<!-- use the rest of the api Endpoints. -->
+<!-- Bug: Player plays without signing in, he should log in first and then be able to play. -->
+<!-- Add game Overall game result modal when finishing the game -->
+Reposition outlined snakes and make sure the tail Tile is in the correct position.
+rescale the whole App to be bigger.
+get rid of the grayness of the buttons and background and use the flashy lights from the sign-in Btn.
+rescale the canvas to fit the whole window and not just the active components.
+add Audio files to correspond with getting eatin by a snake, climing up the ladder and winning the game
+add a button as a setting for the user to disable the sounds.
+ 

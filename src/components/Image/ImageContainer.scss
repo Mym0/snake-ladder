@@ -1,0 +1,97 @@
+.imageContainerSnake3{
+    width: 15rem;
+    height: 9rem;
+    position: relative;
+    top: -5rem;
+    left: -13rem;
+    .snake3{
+        width: 15rem;
+        height: 8rem;
+    }
+}
+.imageContainerSnake2{
+    width: 15rem;
+    height: 8rem;
+    position: relative;
+    top: -4rem;
+    left: -5rem;
+    .snake2{
+        width: 10rem;
+        height: 12rem;
+    }
+}
+.imageContainerSnake4{
+    width: 5rem;
+    height: 11rem;
+    top: -3rem;
+    left: -2rem;
+    position: relative;
+    .snake4{
+        width: 8rem;
+        height: 17rem;
+    }
+}
+.imageContainerSnake5{
+    width: 17rem;
+    height: 15rem;
+    top: -1.5rem;
+    left: -1rem;
+    position: relative;
+    .snake5{
+        width: 22rem;
+        height: 19rem;
+    }
+}
+
+.imageContainerLadder1,.imageContainerLadder2,.imageContainerLadder3{
+    z-index: 999;
+}
+
+.imageContainerLadder1{
+    width: 4rem;
+    height: 11rem;
+    position: relative;
+    top: -18rem;
+    left: -1.3rem;
+    .ladder1{
+        width: 8rem;
+        height: 17rem;
+    }
+}
+.imageContainerLadder2{
+    width: 4rem;
+    height: 11rem;
+    position: relative;
+    top: -18.5rem;
+    left: -1rem;
+    .ladder2{
+        width: 7rem;
+        height: 16rem;
+    }
+}
+.imageContainerLadder3{
+    width: 4rem;
+    height: 11rem;
+    position: relative;
+    top: -34rem;
+    left: -1rem;
+    // -webkit-box-reflect: right;
+    transform: scaleX(-1);
+    .ladder3{
+        width: 8rem;
+        height: 31rem;
+    }
+}
+
+.imageContainerP1{
+    width: 2rem;
+    height: 2rem;
+    top: 0;
+    left: 0.7rem;
+    position: absolute;
+    z-index: 1000;
+    .P1{
+        width: 3rem;
+        height: 3rem;
+    }
+}
